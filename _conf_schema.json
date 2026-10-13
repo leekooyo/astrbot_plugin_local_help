@@ -1,0 +1,21 @@
+{
+  "short_names": {
+    "description": "插件简称",
+    "hint": "每行填写 插件标识:简称。新插件未设置简称时，自动显示原名称。",
+    "type": "list",
+    "default": [
+      "astrbot_plugin_bilivideo:B站总结",
+      "astrbot_plugin_error_pro:报错处理",
+      "astrbot_plugin_local_help:指令帮助",
+      "astrbot_plugin_memelite:表情生成",
+      "astrbot_plugin_pokepro:戳一戳",
+      "astrbot_plugin_qqadmin:QQ群管",
+      "astrbot_plugin_relationship:好友群管理",
+      "astrbot_plugin_reread:自动复读",
+      "astrbot_plugin_wakepro:唤醒增强",
+      "builtin_commands_extension:基础指令",
+      "gatekeeper:群功能总控",
+      "meme_manager:表情管理"
+    ]
+  }
+}

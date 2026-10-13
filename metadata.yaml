@@ -1,0 +1,7 @@
+name: astrbot_plugin_local_help
+display_name: 本地帮助
+desc: 一张插件目录图和一张插件用法长图；简称保存在插件配置中。
+version: v1.0.0
+author: local
+astrbot_version: ">=4.17.0"
+repo: https://github.com/leekooyo/astrbot_plugin_local_help
