@@ -1,4 +1,10 @@
 {
+  "classification_provider_id": {
+    "description": "帮助归类模型 ID",
+    "hint": "留空时使用当前会话模型；仅执行 /help 归类 插件名 时调用。",
+    "type": "string",
+    "default": ""
+  },
   "short_names": {
     "description": "插件简称",
     "hint": "每行填写 插件标识:简称。新插件未设置简称时，自动显示原名称。",

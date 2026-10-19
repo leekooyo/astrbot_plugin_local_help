@@ -1,7 +1,7 @@
 name: astrbot_plugin_local_help
 display_name: 本地帮助
-desc: 一张插件目录图和一张插件用法长图；简称保存在插件配置中。
-version: v1.0.0
+desc: 图片展示插件目录、常用与高级指令，支持手动模型归类。
+version: v1.1.0
 author: local
 astrbot_version: ">=4.17.0"
 repo: https://github.com/leekooyo/astrbot_plugin_local_help
