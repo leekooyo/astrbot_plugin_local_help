@@ -1,5 +1,7 @@
 # 本地帮助
 
+**当前版本：v1.1.0。** 元数据声明需要 AstrBot 4.17.0 或更高版本。
+
 ## 安装与维护
 
 本插件由 leekooyo 维护，可通过仓库地址 `https://github.com/leekooyo/astrbot_plugin_local_help` 安装；当前本机部署目录为 `data/plugins/astrbot_plugin_local_help`。插件配置由 AstrBot 单独保存在 `data/config/astrbot_plugin_local_help_config.json`；更新插件文件时保留这份配置即可继续使用已有简称和模型设置。
